@@ -7,4 +7,3 @@ class Contato(models.Model):
     CELULAR = models.CharField(max_length=20)
     DT_CONTRATO = models.CharField(max_length=20)
     SITUACAO = models.CharField(max_length=20)
-    CELULAR = models.CharField(max_length=20)
